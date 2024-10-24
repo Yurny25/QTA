@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">QTA</string>
+    <string name="title_dos">Dos Mitades</string>
+    <string name="welcome">Hola alejing@gmail.com</string>
+    <string name="initial_instruction_dos">Te voy a ayudar a solucionar el problema de las 2 mitades.</string>
+    <string name="first_step_dos">1. Ingresa una cadena de caracteres.</string>
+    <string name="second_step_dos">2. Te ayudare a cortar la cadena en dos partes "iguales" (si la longitud de la cadena es impar, colocare el carácter central en la primera cadena, de modo que la primera cadena contenga un carácter más que la segunda).</string>
+    <string name="final_step_dos">3. Luego imprimiré la nueva cadena en una sola fila con la primera y la segunda mitad intercambiadas (la segunda mitad es la primera y la primera mitad es la segunda)</string>
+    <string name="hint_dos">Ingrese una palabra</string>
+    <string name="btn">Solucionar</string>
+    <string name="dos_mitades">Dos Mitades</string>
+    <string name="dos_palabras">Dos Palabras</string>
+    <string name="main">Main</string>
 </resources>
